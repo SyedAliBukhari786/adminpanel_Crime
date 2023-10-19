@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746413839062",
+    "project_id": "crime-reporting-system-affc5",
+    "storage_bucket": "crime-reporting-system-affc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746413839062:android:ddcae141aab726add6af77",
+        "android_client_info": {
+          "package_name": "com.example.adminportalcrimereportingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKJWo8MIfLlrqQ4NePAPN_47xmuQPBQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746413839062:android:6de560f90e146191d6af77",
+        "android_client_info": {
+          "package_name": "com.example.crimereportingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKJWo8MIfLlrqQ4NePAPN_47xmuQPBQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
